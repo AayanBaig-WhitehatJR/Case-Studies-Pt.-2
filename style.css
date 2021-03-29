@@ -1,0 +1,52 @@
+#caseStudiesHeading img{
+    width: 100px;
+    height: 100px;
+}
+#caseStudiesHeading{
+    color: red;
+}
+body{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1;
+    color: #333;
+    background-color: #fff;
+}
+.text_images_results{
+    box-shadow: 5px 5px 18px whitesmoke;
+    background: whitesmoke;
+    border-radius: 20px;
+    padding: 20px;
+    border: 2px solid grey;
+    width: 700px;
+    height: 500px;
+}
+ol img{
+    width: 350px;
+    height: 300px;
+}
+hr{
+    width: 50%
+}
+.text_images_results img{
+    width: 250px;
+    height: 245px;
+}
+.copyright_footer {
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+}
+#conclusion{
+    box-shadow: 5px 5px 18px grey;
+    letter-spacing: 2px;
+    background: #F2BAC9;
+    border-radius: 20px;
+    padding: 20px;
+    border: 2px solid grey
+}
